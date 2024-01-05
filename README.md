@@ -4,10 +4,6 @@
 - I'm interest in software development. 
 - C is my grade. Not the language 😭.
 
-![Discord Status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/335690413425819652?simple=true)
-![Currently Playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/335690413425819652)
-![VSCode Level](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/335690413425819652)
-[![Spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/335690413425819652)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
 ---
 

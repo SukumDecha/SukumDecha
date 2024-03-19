@@ -2,7 +2,6 @@
 
 **I'm Nine (he/him)** 
 - I'm interest in software development. 
-- C is my grade. Not the language 😭.
 
 
 ---
